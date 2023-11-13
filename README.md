@@ -3,9 +3,10 @@
 
 - 🌱 I’m currently learning **Data Science and IA at Epitech Technology**
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
-  <h3 align="center">A passionate Data Science from France</h3>
+
 </p>
 
 
